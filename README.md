@@ -2,7 +2,9 @@ This repository contains the code and documentation for an ECG Heart Rate Monito
 
 Features -->
 Real-Time ECG Monitoring: Continuously tracks and displays ECG signals.
+
 Heart Rate Calculation: Accurately computes heart rate from ECG data.
+
 User-Friendly Interface: Displays ECG and heart rate.
 
 Components -->
